@@ -1,0 +1,6 @@
+id=zuan.surface.tweak
+name=Zuan Surface Tweak
+version=1.0
+versionCode=1
+author=ZuanDroid
+description=Tweak SurfaceFlinger, CPU governor, dan latency via KernelSU
