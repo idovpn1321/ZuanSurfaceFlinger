@@ -57,4 +57,4 @@ ZuanSurfaceTweak is a lightweight performance module for Android, designed to im
 ## 🙌 Credits
 
 - Based on open kernel behavior via KernelSU  
-- Maintained by [Zuan](https://github.com/ZuanPrjkt)
+- Maintained by [Zuan](https://github.com/idovpn1321)
